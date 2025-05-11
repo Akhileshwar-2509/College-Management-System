@@ -130,6 +130,5 @@ We welcome contributions to enhance the functionality and features of the Colleg
 
 
 
-## Contact
 
-For any inquiries or feedback, please contact mangeshyadav8736@gmail.com.
+
